@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "659745243805",
+    "firebase_url": "https://javaguru-da39e.firebaseio.com",
+    "project_id": "javaguru-da39e",
+    "storage_bucket": "javaguru-da39e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659745243805:android:1bd79fcd13135c99",
+        "android_client_info": {
+          "package_name": "com.example.den.lesson9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659745243805-p68a1gj4jujk544e6afumflnk7flkm84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.den.lesson9",
+            "certificate_hash": "aef271b2b2e233b22bbedd7eb0784fe6d5c00e58"
+          }
+        },
+        {
+          "client_id": "659745243805-bao9dq8ns2kadrvh9use5aft4akf6iq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkmHQSnfXGLdxB9WCJREy2Z14mHodTRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659745243805-bao9dq8ns2kadrvh9use5aft4akf6iq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
